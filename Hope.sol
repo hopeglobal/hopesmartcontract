@@ -1,3 +1,5 @@
+/* Smart Contract on Binance Smart Chain */
+
 string public name;
 string public symbol;
 uint8 public decimals; // 18 decimals is the strongly suggested default, avoid changing it
